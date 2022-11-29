@@ -1,7 +1,7 @@
 # Hello
 Welcome to my profile
 
-## Basic info
+## About me
 * pronouns are she/her
 * 18 years old
 * college student
