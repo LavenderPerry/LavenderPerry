@@ -10,4 +10,3 @@ Welcome to my profile
 
 ## Things I've made
 My only significant project right now is [Hlockey](https://github.com/Hlockey)\
-Everything else is basically abandoned, I will only work on them if someone opens an issue
