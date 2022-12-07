@@ -9,4 +9,4 @@ Welcome to my profile
 * mediocre
 
 ## Things I've made
-My only significant project right now is [Hlockey](https://github.com/Hlockey)\
+My only significant project right now is [Hlockey](https://github.com/Hlockey)
