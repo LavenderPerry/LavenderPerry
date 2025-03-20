@@ -1,3 +1,3 @@
-I have moved away from GitHub, this profile will only be for collaboration.
+Making things sometimes.
 
-See [my new profile](https://codeberg.org/LavenderPerry) for my projects.
+Most of my projects will be on [Codeberg](https://codeberg.org/LavenderPerry), but some are mirrored here for sharing and/or collaboration.
