@@ -1,5 +1,3 @@
 Making things sometimes.
 
-I run [Forgejo](https://forgejo.org) on [my own server](https://git.industryplant.club), which also has [all my projects](https://git.industryplant.club/lavender)
-
-**Notice**: Currently my websites are offline, including my personal git server.
+Slowly migrating (back) to [Codeberg](https://codeberg.org/elle)
