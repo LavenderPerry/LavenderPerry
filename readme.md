@@ -1,3 +1,1 @@
-Making things sometimes.
-
-Slowly migrating (back) to [Codeberg](https://codeberg.org), see my more recent activity at [my profile on there](https://codeberg.org/elle)
+Left GitHub for real this time. Might publish new stuff on [my Codeberg account](https://codeberg.org/elle) if I ever get over my burnout. Contact me for source code access.
