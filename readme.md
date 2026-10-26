@@ -1,1 +1,1 @@
-Left GitHub for real this time. Might publish new stuff on [my Codeberg account](https://codeberg.org/elle) if I ever get over my burnout. Contact me for source code access.
+Left GitHub for real this time. Contact me for source code access and to see my current art.
